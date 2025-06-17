@@ -48,6 +48,7 @@
 
 ### 🔧 Specialized Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-CC2927?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
