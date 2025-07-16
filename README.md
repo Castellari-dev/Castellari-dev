@@ -67,12 +67,6 @@
 | **"Arcane Forge" Minecraft Mod** | NeoForge + Iron's Spells | Multiblock magical forge with essence manipulation |
 | **Custom Game Mechanics** | Various | Rule-based systems and data-driven gameplay |
 
-### 🔮 Recent Claude Collaborations
-- **Interactive Tarot Reading System** - React-based mystical experience with card animations
-- **Advanced Data Visualization Tools** - D3.js powered analytics dashboards
-- **Custom Algorithm Implementations** - Optimized solutions for complex data problems
-- **API Integration Projects** - Seamless third-party service connections
-
 ---
 
 ## 📊 GitHub Statistics
