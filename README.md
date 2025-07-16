@@ -8,7 +8,7 @@
 
 ## 🧙‍♂️ About Me
 - 🔮 **Virtual Adept** specializing in system creation and magical automation
-- 🎮 **Full-Stack Developer** crafting games and robust applications
+- 🎮 **Backend Developer** crafting games and robust applications
 - 🔍 Passionate about **queries**, **rule‑making**, and **data manipulation**
 - 🤝 Driven by **freedom**, **equality**, and **open knowledge**
 - 🪄 Believer that "Code is magic when data flows freely"
