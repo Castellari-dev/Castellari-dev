@@ -74,9 +74,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Castellari-dev&show_icons=true&theme=radical&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Castellari-dev&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Castellari-dev&show_icons=true&theme=radical&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Castellari-dev&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Castellari-dev&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Castellari-dev&layout=compact&theme=radical)
+
+
 
 </div>
 
