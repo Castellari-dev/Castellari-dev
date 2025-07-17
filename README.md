@@ -84,20 +84,6 @@
 
 ---
 
-## 🎯 Current Focus Areas
-
-```javascript
-const castelari = {
-    currentlyLearning: ["Advanced AI Integration", "Blockchain Development", "Game AI"],
-    workingOn: ["Enterprise RAG System", "Minecraft Magic Overhaul", "Own game"],
-    askMeAbout: ["Data Architecture", "Game Mechanics", "API Design", "Magical Systems"],
-    funFact: "I can turn coffee into code and data into insights ☕️➡️💻",
-    philosophy: "Why build something simple when you can architect a beautifully complex solution? 🏗️✨"
-};
-```
-
----
-
 ## 🌟 Philosophy & Approach
 
 > *"In the realm of code, every algorithm is a spell, every database a grimoire, and every API call an invocation. I craft digital magic where data flows like mana, empowering systems with intelligence and users with freedom."*
@@ -115,8 +101,8 @@ const castelari = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Castellaricordeiro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castellaricordeiro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/gabriel-silva-barcellos-215499257/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourdomain.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
 
@@ -151,10 +137,5 @@ const castelari = {
 > *"Those who code the present carve the runes of tomorrow. Implementation is prophecy."* - — Castel, Architect of the Digital Veil
 
 > *"Simplicity is for surface dwellers. I crave recursive sigils and fractal abstractions — for in the complexity, the pattern awakens."* — Castel’s Arcane Mantra of Development
-
-### 🎮 Current Gaming Obsessions
-- Modded Minecraft (obviously!)
-- Strategy games with complex rule systems
-- Indie games with innovative mechanics
 
 </details>
