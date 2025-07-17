@@ -117,6 +117,12 @@
 
 ---
 
+###
+
+<img src="https://raw.githubusercontent.com/Castelari/Castelari/output/snake.svg" alt="Snake animation" />
+
+###
+
 <details>
 <summary>🔮 <b>Expand for Easter Eggs & Fun Facts</b></summary>
 
