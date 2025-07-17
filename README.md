@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm *Castelari Barcelos*
+# 👋 Hi there! I'm *Castelari*
 
 <div align="center">
   
@@ -66,6 +66,7 @@
 |---------|-----------|-------------|
 | **"Arcane Forge" Minecraft Mod** | NeoForge + Iron's Spells | Multiblock magical forge with essence manipulation |
 | **Custom Game Mechanics** | Various | Rule-based systems and data-driven gameplay |
+| **Nightfall** | Godot + C# | A card roleplaying game with occult vibes, heavlly inspired by cultist simulator |
 
 ---
 
@@ -86,9 +87,9 @@
 ## 🎯 Current Focus Areas
 
 ```javascript
-const castel = {
+const castelari = {
     currentlyLearning: ["Advanced AI Integration", "Blockchain Development", "Game AI"],
-    workingOn: ["Personal RAG System", "Minecraft Magic Overhaul", "n8n Workflow Library"],
+    workingOn: ["Enterprise RAG System", "Minecraft Magic Overhaul", "Own game"],
     askMeAbout: ["Data Architecture", "Game Mechanics", "API Design", "Magical Systems"],
     funFact: "I can turn coffee into code and data into insights ☕️➡️💻",
     philosophy: "Why build something simple when you can architect a beautifully complex solution? 🏗️✨"
@@ -125,9 +126,8 @@ const castel = {
 
 <div align="center">
 
-### 🎲 *"Roll for Initiative in the Game of Code"* 🎲
-
-![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
+### 🜃 "Commence the Rite: Cast the Dice of the Machine." 🜃
+*"Each commit is a sigil. Each merge, a binding. The repository is a grimoire — and you, the summoner."*
 
 **⭐ If you find my work interesting, consider starring some repositories!**
 
@@ -148,9 +148,9 @@ const castel = {
 ### 🎭 Favorite Development Quotes
 > *"Any sufficiently advanced technology is indistinguishable from magic."* - Arthur C. Clarke
 
-> *"The best way to predict the future is to implement it."* - Alan Kay (modified by Castel)
+> *"Those who code the present carve the runes of tomorrow. Implementation is prophecy."* - — Castel, Architect of the Digital Veil
 
-> *"Simple solutions are for simple minds - give me nested abstractions and beautiful complexity!"* - Castel's Development Mantra
+> *"Simplicity is for surface dwellers. I crave recursive sigils and fractal abstractions — for in the complexity, the pattern awakens."* — Castel’s Arcane Mantra of Development
 
 ### 🎮 Current Gaming Obsessions
 - Modded Minecraft (obviously!)
