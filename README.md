@@ -52,7 +52,7 @@
 
 ---
 
-## 🚀 Featured Projects & Collaborations
+## 🚀 Featured Projects
 
 ### 🤖 AI & Automation Systems
 | Project | Technology Stack | Description |
@@ -91,6 +91,15 @@
 - **🤝 Collaborative Magic** - Best results come from working together
 - **🌀 Controlled Complexity** - Sometimes the most elegant solution is the most intricate one
 
+<div align="center">
+
+### 🜃 "Commence the Rite: Cast the Dice of the Machine." 🜃
+*"Each commit is a sigil. Each merge, a binding. The repository is a grimoire — and you, the summoner."*
+
+**⭐ If you find my work interesting, consider starring some repositories!**
+
+</div>
+
 ---
 
 ## 📫 Connect & Collaborate
@@ -107,37 +116,7 @@
 ---
 
 <div align="center">
-
-### 🜃 "Commence the Rite: Cast the Dice of the Machine." 🜃
-*"Each commit is a sigil. Each merge, a binding. The repository is a grimoire — and you, the summoner."*
-
-**⭐ If you find my work interesting, consider starring some repositories!**
-
-</div>
-
----
-
-###
-
-<img src="https://raw.githubusercontent.com/Castelari/Castelari/output/snake.svg" alt="Snake animation" />
-
-###
-
-<details>
-<summary>🔮 <b>Expand for Easter Eggs & Fun Facts</b></summary>
-
-### 🎪 Fun Development Stats
-- ☕ Cups of coffee converted to code: `∞`
-- 🐛 Bugs fixed with rubber duck debugging: `42`
-- 🎯 Success rate of "this will definitely work": `73.2%`
-- 🚀 Projects that exceeded expectations: `Most of them!`
-- 🌀 Lines of code that could have been 10 but became 100: `Every project ever`
-
-### 🎭 Favorite Development Quotes
+  
 > *"Any sufficiently advanced technology is indistinguishable from magic."* - Arthur C. Clarke
 
-> *"Those who code the present carve the runes of tomorrow. Implementation is prophecy."* - — Castel, Architect of the Digital Veil
-
-> *"Simplicity is for surface dwellers. I crave recursive sigils and fractal abstractions — for in the complexity, the pattern awakens."* — Castel’s Arcane Mantra of Development
-
-</details>
+</div>
