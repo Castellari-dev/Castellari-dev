@@ -1,5 +1,3 @@
-# 👋 Hi there! I'm *Castelari*
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Virtual+Adept+in+System+Creation;Game+%26+Application+Developer;Data+Manipulation+Enthusiast;Code+is+Magic+%F0%9F%AA%84)](https://git.io/typing-svg)
