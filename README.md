@@ -5,13 +5,10 @@
 </div>
 
 ## 🧙‍♂️ About Me
-- 🔮 **Virtual Adept** specializing in system creation and magical automation
 - 🎮 **Backend Developer** crafting games and robust applications
 - 🔍 Passionate about **queries**, **rule‑making**, and **data manipulation**
 - 🤝 Driven by **freedom**, **equality**, and **open knowledge**
 - 🪄 Believer that "Code is magic when data flows freely"
-- 🌀 **Proud creator of overcomplicated solutions** - why use 10 lines when 100 will do? ✨
-
 ---
 
 ## 🛠️ Technical Arsenal
