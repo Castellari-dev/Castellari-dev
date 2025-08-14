@@ -1,6 +1,6 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Virtual+Adept+in+System+Creation;Game+%26+Application+Developer;Data+Manipulation+Enthusiast;Code+is+Magic+%F0%9F%AA%84)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=550&lines=<img+src='https://upload.wikimedia.org/wikipedia/en/5/5c/Horde_icon.svg'+height='20'>+Virtual+Adept+in+System+Creation+<img+src='https://upload.wikimedia.org/wikipedia/en/5/5c/Horde_icon.svg'+height='20'>;<img+src='https://upload.wikimedia.org/wikipedia/en/5/5c/Horde_icon.svg'+height='20'>+Game+%26+Application+Developer+<img+src='https://upload.wikimedia.org/wikipedia/en/5/5c/Horde_icon.svg'+height='20'>;<img+src='https://upload.wikimedia.org/wikipedia/en/5/5c/Horde_icon.svg'+height='20'>+Data+Manipulation+Enthusiast+<img+src='https://upload.wikimedia.org/wikipedia/en/5/5c/Horde_icon.svg'+height='20'>)](https://git.io/typing-svg)
 
 </div>
 
