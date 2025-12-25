@@ -90,7 +90,7 @@
 <div align="center">
 
 ### 🜃 "Commence the Rite: Cast the Dice of the Machine." 🜃
-*"Each commit is a sigil. Each merge, a binding. The repository is a grimoire — and you, the summoner."*
+*"Each commit is a sigil. Each merge, a binding. The repository is a grimoire and you, the summoner."*
 
 **⭐ If you find my work interesting, consider starring some repositories!**
 
