@@ -58,7 +58,7 @@ Query optimization · Rule engines · Automation pipelines · Game logic archite
 
 ## Philosophy
 
-Systems are not just built — they are composed like rituals.
+Systems are not just built they are composed like rituals.
 
 - Knowledge should flow freely
 - Complexity must be controlled, not avoided
