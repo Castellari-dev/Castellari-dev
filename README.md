@@ -70,6 +70,6 @@ Systems are not just built they are composed like rituals.
 
 *Each system  is a constructed reality.*
 
-[castellaribarcellos@gmail.com](mailto:castellaribarcellos@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gabriel-silva-barcellos-215499257/)
+[castellaribarcellos@gmail.com](mailto:castellaribarcellos@gmail.com) · 
 
 </div>
